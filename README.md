@@ -79,6 +79,7 @@ A curated list of delightful NoCode / LowCode applications and resources. For mo
 - [Webmerge](https://www.webmerge.me/) - Document automation software
 - [Zapier](https://zapier.com) - Automate tasks by integrating your favorite apps.
 - [Diagram](https://www.ondiagram.com) - Nocode backend API builder with MongoDB and Firestore.
+- [Waylay](https://www.waylay.io/) - Quicker deployment for Data, IoT and AI Automation solutions.
 
 ## Business Apps
 
